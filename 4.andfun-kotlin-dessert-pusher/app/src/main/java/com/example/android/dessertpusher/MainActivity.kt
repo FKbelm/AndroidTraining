@@ -76,7 +76,7 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
         super.onCreate(savedInstanceState)
         Timber.i("onCreate called")
 
-        //dessertTimer = DessertTimer(this.lifecycle)
+        // dessertTimer = DessertTimer(this.lifecycle)
         dessertTimer
 
 
